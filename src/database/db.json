@@ -5,14 +5,14 @@
       "equipment": "Computador",
       "description": "Computador não liga.",
       "user_name": "Blenda",
-      "status": "open",
+      "status": "closed",
       "created_at": "2026-02-24T16:50:06.870Z",
       "updates_at": "2026-02-24T16:50:06.870Z"
     },
     {
       "id": "f3087420-018e-415b-be4d-d8430725b5fe",
       "equipment": "Teclado",
-      "description": "A decla de espaço não funciona",
+      "description": "A tecla de espaço não funciona",
       "user_name": "Rodrigo",
       "status": "open",
       "created_at": "2026-02-24T22:53:43.380Z",
